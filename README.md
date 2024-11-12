@@ -17,7 +17,7 @@
 | 프로젝트 | ![Doctor-matching-System](https://dummyimage.com/1000x70/B0B0B0/ffffff&text=Doctor-maching-System) |
 |----|----|
 | **간단개요** |의학에 대한 지식이 부족한 **일반인** 같은 경우는 자신의 **병에 맞는 병원**을 찾아가는 것이 쉽지 않고, 해당 병에 대해 ***유명한 병원***을 찾아보는 데 **시간 소모**를 하고는 합니다. 이러한 **문제점**을 해결하기 위해 구현된 ***의사 매칭 시스템***입니다. 환자 본인이 **병에 대한 정보**를 입력하면, **데이터베이스**에 입력된 여러 **의사들과 매칭**되며, ***의사들의 평점***을 확인하고 환자가 원하는 **의사에게 예약**할 수 있습니다. 또한, **병원 측** 은 **의사를 등록**하고 **관리**하며, ***환자, 의사, 병원 모두에게 편리함***을 주고자 하는 시스템입니다.|
-| **역활** | 팀장, 각 화면의 UI구성과, oracleDB를 통한 C# 과 .NET Framework 의 활 |
+| **역활** | 팀장, 각 화면의 UI구성과, oracleDB를 통한 C# 과 .NET Framework 의 활용 |
 | **Language** | ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge)|
 | **Skill** | ![.NET Framework](https://img.shields.io/badge/-.NET%20Framework-512BD4?logo=dotnet&logoColor=white&style=for-the-badge) ![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white&style=for-the-badge) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)|
 | **상세설명** | [프로젝트 상세 보기](https://github.com/youhwanJung/Doctor_matching_System) |
