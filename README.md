@@ -41,12 +41,14 @@ ML Kit으로 영수증 이미지를 1차 인식한 뒤 서버 AI로 카테고리
 - 소셜 로그인 (Google / Kakao / Naver / Apple) 연동
 - App Store 배포
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-바로가기-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/youhwanJung/cash-log-public)
+<a href="https://github.com/youhwanJung/cash-log-public">
+  <img src="assets/repo_button.svg" />
+</a>
 
 </td>
 </tr>
 <tr>
-<td width="90" align="center">
+<td width="300" align="center">
 
 ### 정직
 
