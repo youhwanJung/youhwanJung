@@ -1,6 +1,6 @@
 # 👋 안녕하세요, 모바일 개발자 정유환입니다.
 [![Email](https://img.shields.io/badge/bak3353%40naver.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yourname@email.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=googlechrome&logoColor=white)](youhwanjung.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=googlechrome&logoColor=white)]([youhwanjung.github.io/](https://youhwanjung.github.io))
 
 <p style="color:#666666; font-size:14px;">
 Flutter를 주 언어로 사용하며 크로스플랫폼 앱을 개발하고 있습니다.<br>
