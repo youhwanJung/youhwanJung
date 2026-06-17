@@ -70,3 +70,51 @@ ML Kit으로 영수증 이미지를 1차 인식한 뒤 서버 AI로 카테고리
 </td>
 </tr>
 </table>
+
+
+<table>
+<tr>
+<td width="300" align="center"><img src="assets/attendnace.png" width="240"/></td>
+<td rowspan="2">
+
+**웹으로만 제공되던 사내 출결 시스템을 앱으로 리뉴얼한 프로젝트**
+
+메일 링크로 출결을 처리해야 했던 기존 방식이 불편하다는 의견에서 시작해, 같은 기능을 앱으로 옮기면 더 편리할 것이라 생각해 자발적으로 기획하고 개발했습니다. 기존 API를 그대로 활용하면서 디자인과 사용자 경험에 집중해 출결 과정이 더 직관적이고 부드럽게 느껴지도록 애니메이션 구현에 많은 시도를 담았습니다. 완성된 앱은 TestFlight와 APK로 배포해 사내 동료들이 실제로 사용할 수 있도록 공유했습니다.
+
+`📅 2025.10 ~ 2025.12` `👥 모바일 1 (본인) · 서버 1` `📱 iOS / Android` `📦 TestFlight · APK 사내배포`
+
+**담당 역할**
+- Flutter 앱 전체 개발 (iOS / Android)
+- Clean Architecture 기반 프로젝트 구조 설계
+- 출근·퇴근·근무지 변경·휴가/연차 사용·개인정보 확인 등 핵심 UI 개발
+- 날씨 API 연동을 통한 날씨 기반 UI 변경 기능 구현
+- 웹 크롤링을 통한 구내식당 메뉴판 정보 제공 기능 구현
+- 화면 전환 및 인터랙션 애니메이션 구현
+- TestFlight(iOS) 및 APK(Android) 사내 배포
+
+**주요 기능**
+- 출근 · 퇴근 — 버튼 한 번으로 출퇴근 기록, 상태에 따라 화면 UI 자연스럽게 전환
+- 근무지 변경 — 사무실·외근·재택 등 근무지를 간단히 선택해 변경
+- 휴가 · 연차 사용 — 휴가/연차 신청 및 사용 현황 확인
+- 날씨 기반 UI — 날씨 API 연동으로 현재 날씨에 맞춰 메인 화면 분위기와 UI 변경
+- 구내식당 메뉴 안내 — 웹 크롤링으로 당일 구내식당 메뉴 한눈에 확인
+- 개인정보 확인 — 소속·직급·근무 이력 등 개인 정보 앱에서 바로 확인
+
+**Tech Stack**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+<a href="https://github.com/youhwanJung/attendnace-public">
+  <img src="assets/repo_button.svg" />
+</a>
+
+</td>
+</tr>
+<tr>
+<td width="300" align="center">
+
+### 출결이
+
+</td>
+</tr>
+</table>
