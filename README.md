@@ -28,18 +28,33 @@ Flutter를 주 언어로 사용하며 크로스플랫폼 앱을 개발하고 있
 
 <table>
 <tr>
-<td width="90" align="center"><img src="assets/jeongjik.png" width="70"/></td>
+<td width="300" align="center"><img src="assets/jeongjik.png" width="240"/></td>
 <td rowspan="2">
 
 **버려지는 영수증을 효율적으로 활용하기 위한 가계부 앱**
 
 ML Kit으로 영수증 이미지를 1차 인식한 뒤 서버 AI로 카테고리를 자동 분류해, 직접 입력 없이 지출 내역을 빠르게 정리할 수 있습니다. 정산, 캘린더 뷰, 소셜 로그인 등 소비 관리에 필요한 기능도 함께 제공합니다.
 
+`📅 2026.02 ~ 2026.05` `👥 모바일 1 · 서버 1 · 디자이너 1` `📱 iOS / Android`
+
+**담당 역할**
 - Flutter 앱 전체 개발 (iOS / Android)
-- Clean Architecture 기반 프로젝트 구조 설V계
+- Clean Architecture 기반 프로젝트 구조 설계
 - ML Kit OCR 영수증 인식 기능 구현
 - 소셜 로그인 (Google / Kakao / Naver / Apple) 연동
 - App Store 배포
+
+**주요 기능**
+- 영수증 OCR 자동 인식 — 촬영 한 번으로 금액·장소·날짜 자동 추출
+- 카테고리 자동 분류 — 식비·교통·카페 등 지출 성격에 맞게 자동 태깅
+- 지출 정산 — 개인/정산 지출 구분 등록, 팀원별 정산 금액 자동 계산
+- 친구 추가 및 관리 — 정산을 함께하는 친구 등록 및 관리
+- 캘린더 지출 뷰 — 날짜별 소비 금액을 달력에 표시, 오늘의 지출 실시간 확인
+- 소셜 로그인 — Google · Kakao · Naver · Apple 지원
+
+**Tech Stack**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
 <a href="https://github.com/youhwanJung/cash-log-public">
   <img src="assets/repo_button.svg" />
