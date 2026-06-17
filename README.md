@@ -24,3 +24,19 @@ Flutter를 주 언어로 사용하며 크로스플랫폼 앱을 개발하고 있
 | **아키텍처** | 🏛️ MVVM ・ 🧱 Clean Architecture |
 | **협업** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![AppStore](https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white) ![PlayStore](https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=googleplay&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
 
+## 🚀 프로젝트
+
+<table>
+<tr>
+<td width="90" align="center"><img src="assets/png/app_logo.png" width="70"/></td>
+<td rowspan="2"></td>
+</tr>
+<tr>
+<td width="90" align="center">
+
+### 정직
+
+</td>
+</tr>
+</table>
+
