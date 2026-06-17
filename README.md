@@ -28,8 +28,22 @@ Flutter를 주 언어로 사용하며 크로스플랫폼 앱을 개발하고 있
 
 <table>
 <tr>
-<td width="90" align="center"><img src="assets/png/app_logo.png" width="70"/></td>
-<td rowspan="2"></td>
+<td width="90" align="center"><img src="assets/jeongjik.png" width="70"/></td>
+<td rowspan="2">
+
+**버려지는 영수증을 효율적으로 활용하기 위한 가계부 앱**
+
+ML Kit으로 영수증 이미지를 1차 인식한 뒤 서버 AI로 카테고리를 자동 분류해, 직접 입력 없이 지출 내역을 빠르게 정리할 수 있습니다. 정산, 캘린더 뷰, 소셜 로그인 등 소비 관리에 필요한 기능도 함께 제공합니다.
+
+- Flutter 앱 전체 개발 (iOS / Android)
+- Clean Architecture 기반 프로젝트 구조 설V계
+- ML Kit OCR 영수증 인식 기능 구현
+- 소셜 로그인 (Google / Kakao / Naver / Apple) 연동
+- App Store 배포
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-바로가기-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/youhwanJung/cash-log-public)
+
+</td>
 </tr>
 <tr>
 <td width="90" align="center">
@@ -39,4 +53,3 @@ Flutter를 주 언어로 사용하며 크로스플랫폼 앱을 개발하고 있
 </td>
 </tr>
 </table>
-
