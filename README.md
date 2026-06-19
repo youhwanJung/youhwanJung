@@ -118,3 +118,51 @@ ML Kit으로 영수증 이미지를 1차 인식한 뒤 서버 AI로 카테고리
 </td>
 </tr>
 </table>
+
+<table>
+<tr>
+<td width="300" align="center"><img src="assets/campus_life.png" width="240"/></td>
+<td rowspan="2">
+
+**흩어져 있던 학교 생활 앱들을 하나로 통합한 팀 프로젝트**
+
+학교 커뮤니티는 에브리타임, 출석은 별도 앱, 학사 정보는 학교 앱, 스터디룸 예약은 또 다른 앱으로 나뉘어 있어 매번 여러 앱을 오가야 했던 불편함에서 출발했습니다. 여기서 더 나아가 출석이나 활동 등 학교생활을 통해 포인트를 적립하고 교내 상점에서 사용할 수 있게 함으로써 자연스럽게 학교생활 참여 동기를 부여하는 구조를 더했습니다. 졸업작품전에서 최우수상을 수상했습니다.
+
+`📅 2024.06 ~ 2024.12` `👥 팀장 1 (본인) · 팀원 2` `📱 iOS / Android` `🏆 졸업작품전 최우수상`
+
+**담당 역할**
+- React Native 앱 전체 개발 (iOS / Android)
+- 프로젝트 구조 설계 및 팀 리딩
+- QR 출석, 시간표 관리, 스터디룸 예약 등 핵심 UI 개발
+- Firebase Auth / Firestore 기반 인증 및 실시간 데이터 연동
+- Lottie · Reanimated 기반 화면 전환 및 인터랙션 애니메이션 구현
+- Express + MariaDB 서버 구축 및 API 연동
+- 관리자 기능(포인트·경고·권한 부여, 공지·이벤트·상품 관리) 개발
+
+**주요 기능**
+- QR 출석 — QR코드 스캔으로 간편하게 출석 처리
+- 시간표 관리 — 시간표 직접 수정 및 일정 추가
+- 스터디룸 예약 — 원하는 시간에 스터디룸 예약 및 이용
+- 동아리 · 공모전 신청 — 앱에서 바로 가입 신청 및 참가
+- 커뮤니티 · 공지사항 — 게시글·댓글·대댓글로 소통
+- 이벤트 · 포인트 상점 — 이벤트 참여로 포인트 적립 후 상점 이용
+- 관리자 기능 — 포인트·경고·권한 부여 및 운영 전반 관리
+
+**Tech Stack**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+
+<a href="https://github.com/youhwanJung/campus-life-public">
+  <img src="assets/repo_button.svg" />
+</a>
+
+</td>
+</tr>
+<tr>
+<td width="300" align="center">
+
+### Campus Life
+
+</td>
+</tr>
+</table>
