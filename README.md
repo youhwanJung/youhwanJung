@@ -8,8 +8,8 @@ Flutter(Dart)를 중심으로 모바일 앱을 개발하고 있습니다.<br>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=youhwanjung&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youhwanjung&layout=compact&theme=tokyonight&hide_border=true" width="38%" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=youhwanjung&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youhwanjung&layout=compact&theme=tokyonight&hide_border=true" width="38%" /> -->
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=youhwanjung&theme=tokyonight&hide_border=true" width="49%" />
