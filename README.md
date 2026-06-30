@@ -3,8 +3,8 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://youhwanjung.github.io)
 
 <p style="color:#666666; font-size:14px;">
-Flutter를 주 언어로 사용하며 크로스플랫폼 앱을 개발하고 있습니다.<br>
-실무에서는 Android(Kotlin), SwiftUI, ReactNative 등 다양한 플랫폼을 경험하며 폭넓은 시야를 쌓아왔습니다.
+Android(Kotlin)를 중심으로 모바일 앱을 개발하고 있습니다.<br>
+실무에서는 Flutter, SwiftUI, React Native 등 다양한 플랫폼을 경험하며 폭넓은 시야를 쌓아왔습니다.
 </p>
 
 <p align="center">
